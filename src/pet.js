@@ -44,4 +44,3 @@ if (this.hunger <=5) {
 // further updates
 
 module.exports = Pet;
-jkjjlj
